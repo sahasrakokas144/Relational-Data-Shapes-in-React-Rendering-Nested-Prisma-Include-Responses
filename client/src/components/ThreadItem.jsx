@@ -28,7 +28,7 @@ export default function ThreadItem({ thread }) {
     </li>
   );
 }
-
+//omg
 ThreadItem.propTypes = {
   thread: PropTypes.shape({
     id: PropTypes.number.isRequired,
